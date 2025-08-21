@@ -15,4 +15,5 @@ model = Blip2ForConditionalGeneration.from_pretrained("Salesforce/blip2-opt-2.7b
 This project builds upon the invaluable contributions of following open-source projects:
 
 1.DAMP (https://github.com/TL-UESTC/DAMP)
+
 2.LaGTran (https://tarun005.github.io/lagtran/)
